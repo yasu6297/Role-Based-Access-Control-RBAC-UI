@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1, 
+        "name": "yasir jan",
+        "email":"yasu6297@gmail.com",
+        "role": "Admin",
+        "status": "Active"
+    },
+    {
+        "id": 1, 
+        "name": "arsalan jan",
+        "email":"wanifaixu07@gmail.com",
+        "role": "User",
+        "status": "InActive"
+    }
+]
