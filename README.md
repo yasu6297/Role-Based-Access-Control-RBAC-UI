@@ -72,3 +72,70 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 57b39d1 (Initial commit)
+>>>>>>> # Role-Based Access Control (RBAC) UI Dashboard
+
+## Project Overview
+
+This project is a **Role-Based Access Control (RBAC)** User Interface (UI) designed to manage users, roles, and permissions effectively within an admin dashboard. The project leverages **React** to build the frontend and simulates CRUD operations using mock APIs. The goal is to provide a user-friendly interface for managing access control based on roles and permissions.
+
+---
+
+## Features
+
+- **User Management**
+  - View, add, edit, and delete users.
+  - Assign roles to users (e.g., Admin, User).
+  - Manage user statuses (Active/Inactive).
+
+- **Role Management**
+  - View, add, edit, and delete roles.
+  - Assign permissions to roles (e.g., View Dashboard, Manage Users).
+
+- **Permission Management**
+  - View, add, edit, and delete permissions.
+  - Assign permissions to roles for access control.
+
+- **Mock API Simulation**
+  - Simulated API calls for CRUD operations on users, roles, and permissions.
+  - Local data storage to demonstrate functionality.
+
+- **Confirmation Dialogs**
+  - Action confirmation dialogs to prevent accidental changes like deletions or updates.
+
+- **Responsive UI**
+  - Clean, intuitive interface with a responsive design for different devices and screen sizes.
+
+---
+
+## Screenshots
+
+### Admin Dashboard:
+![Dashboard](./assets/dashboard.png)
+
+### User Management:
+![User Management](./assets/user-management.png)
+
+### Role Management:
+![Role Management](./assets/role-management.png)
+
+---
+
+## Technologies Used
+
+- **React** - JavaScript library for building user interfaces.
+- **React-Bootstrap** - Bootstrap components for React-based styling and UI.
+- **Axios** - HTTP client for making API requests (simulated in this case).
+- **React Router** - Routing library for navigation within the app.
+- **Mock APIs** - Used to simulate CRUD operations for demonstration purposes.
+
+---
+
+## Installation and Setup
+
+### 1. Clone the repository
+
+Run the following command to clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yasu6297/Role-Based-Access-Control-RBAC-UI.git
+
