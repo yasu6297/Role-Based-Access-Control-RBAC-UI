@@ -1,6 +1,6 @@
 <html>
 
-<title>Role-Based-Access-Control-RBAC-UI</title>
+<h1>Role-Based-Access-Control-RBAC-UI</h1>
   <body>
 <h4>Getting Started with Create React App</h4>
 
@@ -33,9 +33,9 @@ Your app is ready to be deployed!
 
  Role-Based Access Control (RBAC) UI Dashboard
 
-## Project Overview
+<h3>Project Overview</h3>
 
-This project is a <b>Role-Based Access Control (RBAC)</b> User Interface (UI) designed to manage users, roles, and permissions effectively within an admin dashboard. The project leverages **React** to build the frontend and simulates CRUD operations using mock APIs. The goal is to provide a user-friendly interface for managing access control based on roles and permissions.
+<b>This project is a <b>Role-Based Access Control (RBAC)</b> User Interface (UI) designed to manage users, roles, and permissions effectively within an admin dashboard. The project leverages **React** to build the frontend and simulates CRUD operations using mock APIs. The goal is to provide a user-friendly interface for managing access control based on roles and permissions.</b>
 
 ---
 
