@@ -66,18 +66,7 @@ Your app is ready to be deployed!
 
 ---
 
-## Screenshots
 
-### Admin Dashboard:
-![Dashboard](./assets/dashboard.png)
-
-### User Management:
-![User Management](./assets/user-management.png)
-
-### Role Management:
-![Role Management](./assets/role-management.png)
-
----
 
 ## Technologies Used
 
